@@ -46,7 +46,7 @@ The code consists of the following parts:
 # Citation
 
 If this work is helpful for your research, please consider citing the following BibTeX entry.
-```
+```bibtex
 @article{wan2024denoising,
   title={A denoising time window algorithm for optimizing LSTM prediction},
   author={Wan, Sihao},
