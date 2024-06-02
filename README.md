@@ -41,3 +41,17 @@ The code consists of the following parts:
   - Files with `.sfit` extension are programs for fitting the original series using MATLAB, i.e., curve fitters.
 - `SOTA`: Records comparisons with SOTA methods. This study uses four methods as SOTA benchmarks to measure performance: AP, FF, MSTL, and TBATS.
 - Files in the main program prefixed with `Pre_PostProcessing` are SOTA test files.
+- 
+
+# Citation
+
+If this work is helpful for your research, please consider citing the following BibTeX entry.
+```
+@article{wan2024denoising,
+  title={A denoising time window algorithm for optimizing LSTM prediction},
+  author={Wan, Sihao},
+  journal={IEEE Access},
+  year={2024},
+  publisher={IEEE}
+}
+```
